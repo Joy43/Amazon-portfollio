@@ -1,0 +1,16 @@
+.cart-element{
+    background-color: rgb(240, 239, 237);
+  
+}
+.review{
+    background-color: goldenrod;
+ 
+    height: 30px;   
+    width:150px;
+    border: 1px solid  darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.total{
+    color: rgb(235, 41, 51);
+}
